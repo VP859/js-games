@@ -1,0 +1,26 @@
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    padding: 1.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+img {
+    width: 256px;
+}
+
+button {
+    background-color: rgba(240, 248, 255, 0);
+    border: none;
+}
