@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    background-color: rgb(241, 243, 242);
+    display: inline-block;
+    margin: 0 2px 0 2px;
+    width: 128px;
+    height:128px;
+}
